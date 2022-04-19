@@ -1,0 +1,77 @@
+{
+  "poketmon":[
+    {
+      "id":1,
+      "name":"이상해씨",
+      "type":"풀",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000101.png"
+    },
+    {
+      "id":2,
+      "name":"버드렉스",
+      "type":"풀",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089801.png"
+    },
+    {
+      "id":3,
+      "name":"파이리",
+      "type":"불",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000401.png"
+    },
+    {
+      "id":4,
+      "name":"리자드",
+      "type":"불꽃",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000501.png"
+    },
+    {
+      "id":5,
+      "name":"어니부기",
+      "type":"물",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000801.png"
+    },
+    {
+      "id":6,
+      "name":"버터플",
+      "type":"벌레,비행",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001201.png"
+    }
+    ,
+    {
+      "id":7,
+      "name":"라이츄",
+      "type":"전기",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002601.png"
+    },
+    {
+      "id":8,
+      "name":"구구",
+      "type":"노말,비행",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001601.png"
+    },
+    {
+      "id":9,
+      "name":"꼬렛",
+      "type":"노말",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/001901.png"
+    },
+    {
+      "id":10,
+      "name":"니드런",
+      "type":"독",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/002901.png"
+    },
+    {
+      "id":11,
+      "name":"니드리나",
+      "type":"독",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003001.png"
+    },
+    {
+      "id":12,
+      "name":"니드퀸",
+      "type":"독,땅",
+      "url": "https://data1.pokemonkorea.co.kr/newdata/pokedex/full/003101.png"
+    }
+  ]
+}

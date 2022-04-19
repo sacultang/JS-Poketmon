@@ -1,0 +1,37 @@
+input, button {
+  padding: 5px 10px;
+}
+.container{
+  margin:0 auto;
+  width: 1000px;
+  position: relative;
+  z-index: 1;
+  background-color: rgba(255,255,255,.9);
+
+}
+#list {
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1000px;
+}
+#list > li {
+  flex-basis: 50%;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#list > li > img {
+  width: 50%;
+}
+#list > li > p {
+  font-size: 24px;
+}
+.particles-js-canvas-el {
+  position: absolute;
+  top: 0;
+}

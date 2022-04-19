@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="./style.css">
+  <script src="./main.js" defer></script>
+</head>
+<body>
+  <div id="particles-js">
+    <section class="container">
+      <h1>Poketmon Search List</h1>
+      <form id="search-form">
+        <input type="text" id="search">
+        <button id="search-btn">Search</button>
+      </form>
+      <ul id="list">
+        <!-- <li>
+          <img src="https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000101.png" alt="">
+          <p>name</p>
+          <p>type</p>
+        </li>
+        <li>
+          <img src="https://data1.pokemonkorea.co.kr/newdata/pokedex/full/089801.png" alt="">
+          <p>name</p>
+          <p>type</p>
+        </li>
+        <li>
+          <img src="https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000401.png" alt="">
+          <p>name</p>
+          <p>type</p>
+        </li>
+        <li>
+          <img src="https://data1.pokemonkorea.co.kr/newdata/pokedex/full/000501.png" alt="">
+          <p>name</p>
+          <p>type</p>
+        </li> -->
+      </ul>
+    </section>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.js"></script>
+  <script>
+    particlesJS.load('particles-js', './particles.json', function() {
+    // console.log('callback - particles.js config loaded');
+  });
+  </script>
+</body>
+</html>
